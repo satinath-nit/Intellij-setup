@@ -6,3 +6,6 @@ Version:ideaIU-2019.3.4
 
 
 https://zhile.io/custom/license
+
+
+Use etc zip that contains latest Jar and important.txt files
